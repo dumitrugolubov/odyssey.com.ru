@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://odyssey.com.ru/sitemap.xml
